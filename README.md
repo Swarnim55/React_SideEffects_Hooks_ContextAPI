@@ -1,2 +1,4 @@
 # React_SideEffects_Hooks_ContextAPI
-Implementing useEffect Hook to handle the sideEffects, debouncing user forms, creating cleanup functions. Use Reducer and Context API introduction
+
+1. Implemented useEffect Hook to handle the sideEffects, debouncing user forms, creating cleanup functions.
+2. Used Reducer Hook to manage the email and password validations and states. (Removed UseEffect hook).
