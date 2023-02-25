@@ -7,3 +7,4 @@
 5. Implemented useContext hook to listen to the context provided a prop to manage the default value of the authentication context.
 6. Passed Down logout function from App.js to the provider object to utilize dynamic context and reduce props usage.
 7. Building & Using Custom Context Provider Component
+8. Used useImperativeHandler Hook and foward refs to expose functionality from a component to its parent and use it through refs. (Creating Focus on Invalid Inputs)
