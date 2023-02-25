@@ -6,3 +6,4 @@
 4. Used React Context concept to manage the authentication state app wise.
 5. Implemented useContext hook to listen to the context provided a prop to manage the default value of the authentication context.
 6. Passed Down logout function from App.js to the provider object to utilize dynamic context and reduce props usage.
+7. Building & Using Custom Context Provider Component
